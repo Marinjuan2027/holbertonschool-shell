@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x, sudo hello
+chmod 644 hello
