@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x 0-iam_betty 10-mirror_permissions 3-new_owner 5-execute 7-everybody 9-John_Doe 1-who_am_i 2-groups 4-empty 6-multiple_permissions 8-James_Bond 
+chmod 777 0-iam_betty 10-mirror_permissions 3-new_owner 5-execute 7-everybody 9-John_Doe 1-who_am_i 2-groups 4-empty 6-multiple_permissions 8-James_Bond 
