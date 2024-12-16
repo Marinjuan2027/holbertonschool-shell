@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -l olleh
+#!bin/bash
+ls -l
